@@ -5,6 +5,10 @@ using FluentValidation;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
+using DeliveryHub.Application.DTOs;
+using DeliveryHub.Application.Interfaces;
+using FluentValidation;
+
 namespace DeliveryHub.API.Controllers;
 
 [ApiController]

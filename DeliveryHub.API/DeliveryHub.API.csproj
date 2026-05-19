@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DeliveryHub.Application\DeliveryHub.Application.csproj" />
+      <ProjectReference Include="..\DeliveryHub.Domain\DeliveryHub.Domain.csproj" />
     <ProjectReference Include="..\DeliveryHub.Infrastructure\DeliveryHub.Infrastructure.csproj" />
   </ItemGroup>
 
