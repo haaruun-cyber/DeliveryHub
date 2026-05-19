@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DeliveryHub.API/DeliveryHub.API.csproj" />
+  <Project Path="DeliveryHub.Application/DeliveryHub.Application.csproj" />
+  <Project Path="DeliveryHub.Domain/DeliveryHub.Domain.csproj" />
+  <Project Path="DeliveryHub.Infrastructure/DeliveryHub.Infrastructure.csproj" />
+</Solution>
